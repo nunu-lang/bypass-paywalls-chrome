@@ -219,6 +219,11 @@
     "*://*.washingtonpost.com/*",
     "*://*.wired.com/*",
     "*://*.wsj.com/*"
+    "*://*.Tempo.co/*"
+    "*://*.thejakartapost.com/*"
+    "*://*.bisnis.com/*"
+    "*://*.kompas.com/*"
+    "*://*.lawinsider.com/*"
   ],
   "version": "1.7.1"
 }
