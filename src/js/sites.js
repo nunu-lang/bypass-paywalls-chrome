@@ -131,5 +131,10 @@ const defaultSites = {
   'Vrij Nederland': 'vn.nl',
   'Winston-Salem Journal': 'journalnow.com',
   'Wired': 'wired.com',
+  'Tempo': 'Tempo.co',
+  'The Jakarta Post': 'thejakartapost.com',
+  'Bisnis': 'bisnis.com',
+  'Kompas': 'kompas.com',
+  'Law Insider': 'lawinsider.com'
   '*General Paywall Bypass*': 'generalpaywallbypass'
 };
