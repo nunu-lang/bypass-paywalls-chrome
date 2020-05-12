@@ -155,6 +155,14 @@
 [Vrij Nederland](https://www.vn.nl)\
 [Winston-Salem Journal](https://journalnow.com)\
 [Wired](https://www.wired.com)
+[Tempo](https://www.Tempo.co)\
+[The Jakarta Post](https://www.thejakartapost.com)\
+[Bisnis](https://www.bisnis.com)\
+[Kompas](https://www.kompas.com)\
+[Law Insider](https://www.lawinsider.com)
+  
+ 
+
 
 ### Sites with limited number of free articles
 The free article limit can normally be bypassed by removing cookies for the site.*
